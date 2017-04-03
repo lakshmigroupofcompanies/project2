@@ -2,7 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
-class BRANCH_ENTRY extends JFrame implements ActionListener
+class BRANCH_ENTRY extends JFrame implements ActionListener 
+class 
 {
 	JLabel jl,jlab,jb,jbc;
 	JTextField jtf1,jtf2,jtf3;
