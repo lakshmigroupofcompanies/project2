@@ -4,7 +4,7 @@ import java.awt.event.*;
 import java.sql.*;
 class BRANCH_ENTRY extends JFrame implements ActionListener
 {
-hi hello:	JLabel jl,jlab,jb,jbc;
+	JLabel jl,jlab,jb,jbc;
 	JTextField jtf1,jtf2,jtf3;
 	JButton bs,bc,b,st,su,m,r,l;
 	Container c=null;
