@@ -1,4 +1,0 @@
-class BRANCH_ENTRY
-{
-
-}
