@@ -1,0 +1,4 @@
+class BRANCH_ENTRY
+{
+
+}
